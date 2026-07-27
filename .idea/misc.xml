@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="river-profile-lidar" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="41c1ec66-2d7e-4bcb-8c6e-f3f1d12f9cc3" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="river-profile-lidar" project-jdk-type="Python SDK" />
+</project>
